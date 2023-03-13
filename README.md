@@ -1,5 +1,5 @@
 # ConsoleSnake
-A console snake game by zzupart\n
+A console snake game by zzupart
 Absolute shitcode\n
 Works only on Linux-based terminals, requires ncurses-utils pkg
 Install it with "pkg install ncurses-utils" on termux\n
